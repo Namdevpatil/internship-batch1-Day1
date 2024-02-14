@@ -1,0 +1,36 @@
+Java Basics
+	- Java Program Structure
+	
+	- How to compile and run java program
+	
+	- comments of java:
+			- single line(//)
+			- multiline(/*...*/)
+			- java documentation type comment.(/**...*/): 
+			Note: comments are ignored by java compiler.
+			
+	- keywords:
+		- these words are reserved words, which meaning already defined in JRE system. 
+		
+	- data types:
+		 - the compiler or JVM need to understand that what type of value, size, range and default value
+		   hold by the variable.
+		   
+		   Data types are categorized into two types
+		   		- primitive: char, int, flot and boolean, this data types holds only one value in variable
+		   		- non-primitive: arrays, strings, enums and classes(user defined and predefined)
+			
+	- variables:
+		 - Types of variables
+		 		- method/constructor/block - level
+		 		- class(static/non-static)-level
+		
+	- expressions:
+			
+	- operators:
+			
+	- conditional statements:
+				- if, if-else
+	- conditional loops:
+				- for, while and do-while
+	- methods of java
